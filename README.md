@@ -1,1 +1,1 @@
-train tmp firectory.
+train tmp directory.
